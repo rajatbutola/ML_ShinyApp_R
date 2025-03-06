@@ -29,5 +29,5 @@ This project provides an interactive **Shiny web application** that allows users
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Prediction-GUI-for-Trained-Models.git
+   git clone git clone https://github.com/yourusername/Prediction-GUI-for-Trained-Models.git
 
