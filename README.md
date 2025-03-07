@@ -1,6 +1,6 @@
 # LogitDA_App
 
-This project provides an interactive **Shiny web application** that allows users to generate predictions using pre-trained machine learning models on uploaded test data. The app supports **logistic regression models** for two different types of cancer (mUC and RCC) and enables users to upload their test dataset, select a model, and generate predictions. The resulting predictions can then be downloaded as a CSV file for further analysis.
+This project provides an interactive **R-based Shiny web application** that allows users to generate predictions using pre-trained machine learning models on uploaded test data. The app supports **logistic regression models** for two different types of cancer (mUC and RCC) and enables users to upload their test dataset, select a model, and generate predictions. The resulting predictions can then be downloaded as a CSV file for further analysis.
 
 ## Features
 
@@ -29,5 +29,5 @@ This project provides an interactive **Shiny web application** that allows users
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Prediction-GUI-for-Trained-Models.git
+   git clone git clone https://github.com/yourusername/Prediction-GUI-for-Trained-Models.git
 
